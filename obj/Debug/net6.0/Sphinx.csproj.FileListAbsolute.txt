@@ -1,0 +1,15 @@
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/obj/Debug/net6.0/Sphinx.csproj.AssemblyReference.cache
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/obj/Debug/net6.0/Sphinx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/obj/Debug/net6.0/Sphinx.AssemblyInfoInputs.cache
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/obj/Debug/net6.0/Sphinx.AssemblyInfo.cs
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/obj/Debug/net6.0/Sphinx.csproj.CoreCompileInputs.cache
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/bin/Debug/net6.0/Sphinx
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/bin/Debug/net6.0/Sphinx.deps.json
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/bin/Debug/net6.0/Sphinx.runtimeconfig.json
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/bin/Debug/net6.0/Sphinx.dll
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/bin/Debug/net6.0/Sphinx.pdb
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/obj/Debug/net6.0/Sphinx.dll
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/obj/Debug/net6.0/refint/Sphinx.dll
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/obj/Debug/net6.0/Sphinx.pdb
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/obj/Debug/net6.0/Sphinx.genruntimeconfig.cache
+/Users/aitana/Documents/Epicodus/Projects/sphinx-riddles/obj/Debug/net6.0/ref/Sphinx.dll
